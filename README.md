@@ -5,6 +5,7 @@
 </div>
 Web application which allows User to login and get access to avilable resources. Admin login to maintain dashboard 
 which inclueds course, registration and job portal management.
+<h2>Application Block Diagram👾</h2>
 <h2>Technologies and Languages used:👩🏻‍💻</h2>
 <li>HTML & CSS</li>
 <li>Javascrpit</li>
