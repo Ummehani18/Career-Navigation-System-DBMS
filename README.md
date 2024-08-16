@@ -6,6 +6,11 @@
 Web application which allows User to login and get access to avilable resources. Admin login to maintain dashboard 
 which inclueds course, registration and job portal management.
 <h2>Application Block Diagram👾</h2>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b194c151-665d-4956-80ca-e51babfe903a" alt="cg flowchart" width="500"/>
+</div>
+
+
 <h2>Technologies and Languages used:👩🏻‍💻</h2>
 <li>HTML & CSS</li>
 <li>Javascrpit</li>
